@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+facenet-pytorch
+torch
+faiss-cpu
+gradio
